@@ -1,0 +1,11 @@
+name = "OpenSoundControl"
+uuid = "2ff8ee2d-9747-4b2b-b699-45d473b7b9df"
+authors = ["fundamental <mark.d.mccurry@gmail.com>"]
+version = "1.0.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
